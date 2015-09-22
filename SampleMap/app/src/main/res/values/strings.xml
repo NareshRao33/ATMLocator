@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JPMCATMLocator</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main">JPMCATMList</string>
+    <string name="netinfo">Network is not available, Please connect to network.</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
